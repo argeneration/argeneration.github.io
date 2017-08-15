@@ -1071,9 +1071,7 @@ img {
  max-width:100%;
  height:auto
 }
-.img-circle,main img {
- border-radius:50%
-}
+
 hr {
  margin-top:20px;
  margin-bottom:20px;
